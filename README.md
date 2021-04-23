@@ -11,6 +11,6 @@ npm install --save-dev @groww-tech/tsconfig
 ## Usage
 Add `"extends": "@groww-tech/tsconfig"` to your `tsconfig.json` file.
 
+<br>
 
-## Disclaimer
-This configuration is for use in Groww projects. Use at your own risk.
+*This configuration is for use in Groww projects. Use at your own risk.*

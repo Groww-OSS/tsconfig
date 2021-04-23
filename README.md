@@ -1,6 +1,8 @@
 # tsconfig
 
-Shared [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) for Groww projects.
+Shared TypeScript config for Groww projects.
+
+For information on setting up `tsconfig.json` in your project see the [TypeScript docs](http://www.typescriptlang.org/docs/handbook/tsconfig-json.html).
 
 ## Install
 

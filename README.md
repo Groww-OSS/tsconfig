@@ -1,3 +1,4 @@
+# !!! The repo has been migrated to [webster](https://github.com/Groww/webster)
 # tsconfig
 
 Shared TypeScript config for Groww projects.
